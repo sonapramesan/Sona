@@ -1,2 +1,1 @@
-# Sona
-Passionate about coding and learning new technologies
+hi there
